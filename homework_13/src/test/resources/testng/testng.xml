@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="UI tests">
+    <test name="UI test">
+        <classes>
+            <class name="ua.ithillel.pageObject.RegisterTest"/>
+        </classes>
+    </test>
+</suite>
